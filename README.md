@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola, mi nombre es Matias
+## Sobre mi:
+Soy desarollador de software, estoy teminando la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas.
+Me gusta todo lo relacionado con nueva tecnologias.
 ![](https://komarev.com/ghpvc/?username=MatiasSpacech&label=PROFILE+VIEWS)
 <!--
 **MatiasSpacech/MatiasSpacech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
