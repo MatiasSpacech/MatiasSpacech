@@ -1,7 +1,7 @@
 ### Hola, mi nombre es Matias
 ## Sobre mi:
 Soy desarollador de software, estoy teminando la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas.
-Me gusta todo lo relacionado con nueva tecnologias.
+Me gusta todo lo relacionado con nuevas tecnologias.
 
 <p align="center">
   <a href="https://skillicons.dev">
